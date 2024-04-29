@@ -1,9 +1,9 @@
 {
-    "label": "Fund management",
+    "label": "Fund management guide",
     "position": 4,
     "link": {
       "type": "generated-index",
-      "description": "5 minutes to learn the most important Docusaurus concepts."
+      "description": "Welcome to Venture 360! As a Fund Manager, you have several key responsibilities in managing funds and interacting with investors. This guide will walk you through each step of the Fund Management process, including adding new investors, requesting funds, committing funds, calling committed funds, and investing funds in ventures."
     }
   }
   

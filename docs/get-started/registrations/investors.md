@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+import Image from '@site/src/components/Image';
+
 # Investor Registration
 
 Venture360 offers a seamless user registration process for LPs or investors to access the platform and explore investment opportunities. Follow these steps to get started:
@@ -9,9 +11,10 @@ Venture360 offers a seamless user registration process for LPs or investors to a
 ## Step 1: Invitation Email {#invitation3}
 
 - Fund managers will send invitation emails to LPs or investors to join [Venture360](https://www.venture360.co).
+  <Image src='docs/Screenshot11.png' />
 - LPs or investors will receive an invitation email containing a unique link to register on the platform.
 - After Clicking the invitation link you will be redirected to [Venture360](https://www.venture360.co).
-![alt text](../images/image.png)
+
 
 ## Step 2: Account Creation
 
